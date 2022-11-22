@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azharul Islam</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
 
-
 <p> <img align="center" src="https://i.ibb.co/kGq9GJQ/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f7473.gif"/> </p>
 
 
@@ -60,5 +59,5 @@
 <a href="https://www.facebook.com/bj.nahid?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bj.nahid" height="30" width="40" /></a>
 </p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lonewolfazZ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lonewolfazZ" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/lonewolfazZ"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lonewolfazZ" /></a></p><br><br>
 
