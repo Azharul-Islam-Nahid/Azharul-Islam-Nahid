@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azharul Islam</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
 
-<p> <img align="center" src="https://i.ibb.co/kGq9GJQ/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f7473.gif"/> </p>
+<p> <img align="center" src="https://i.ibb.co/kGq9GJQ/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f7473.gif"> </p>
 
 
 
