@@ -189,7 +189,7 @@
         <a href="https://www.facebook.com/bj.nahid?mibextid=ZbWKwL" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                         alt="https://www.facebook.com/bj.nahid" height="30" width="40" /></a>
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/azharul-islam-111aba1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azharul-islam-111aba1ba" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/azharul-islam-111aba1ba?fbclid=IwAR3efB6-RsPti2poq6F_v5S9nMLtIJtWN6ZnyojNRq34db7tsJ03He_D7TA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azharul-islam-111aba1ba" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <h1 align="left">
